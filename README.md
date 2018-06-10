@@ -6,3 +6,6 @@ This canvas was created to help technology teams go through transformational cha
 
 ## What + How
 We didn't just want to focus on technology widgets. The Super Duper Tech Planning Canvas focuses on both technology widgets and, especially, team's behavior.
+
+## The SuperDuperOrg Website
+https://superduperorg.com
